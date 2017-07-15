@@ -1,0 +1,6 @@
+/.deploy_git
+/.git
+/db.json
+/debug.log
+/node_modules
+/public
