@@ -74,7 +74,7 @@ npm install -g hexo
 
 安装速度可能有点慢，需要耐心等待。
 
-如果地址被“墙”，可以参考[这篇文章](http://blog.csdn.net/jzooo/article/details/46781805)的“安装Hexo”部分
+如果地址被“墙”，就需要梯子翻墙了。
 
 
 
